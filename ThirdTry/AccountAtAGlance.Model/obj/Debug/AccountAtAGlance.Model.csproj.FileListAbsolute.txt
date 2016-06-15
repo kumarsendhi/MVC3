@@ -1,0 +1,4 @@
+C:\MVC3\ThirdTry\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\MVC3\ThirdTry\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\MVC3\ThirdTry\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\MVC3\ThirdTry\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb

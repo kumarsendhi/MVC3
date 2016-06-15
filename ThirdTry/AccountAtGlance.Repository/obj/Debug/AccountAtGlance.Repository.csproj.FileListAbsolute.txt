@@ -1,0 +1,12 @@
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\AccountAtGlance.Repository.dll
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\AccountAtGlance.Repository.pdb
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\obj\Debug\AccountAtGlance.Repository.dll
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\obj\Debug\AccountAtGlance.Repository.pdb
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\AccountAtAGlance.Model.dll
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\AccountAtAGlance.Model.pdb
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\AccountAtGlance.Repository.dll.config
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\EntityFramework.dll
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\EntityFramework.xml
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVC3\ThirdTry\AccountAtGlance.Repository\obj\Debug\AccountAtGlance.Repository.csprojResolveAssemblyReference.cache

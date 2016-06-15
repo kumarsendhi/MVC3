@@ -1,0 +1,7 @@
+C:\MVC3\ThirdTry\MusicStore\bin\MusicStore.dll
+C:\MVC3\ThirdTry\MusicStore\bin\MusicStore.pdb
+C:\MVC3\ThirdTry\MusicStore\bin\EntityFramework.dll
+C:\MVC3\ThirdTry\MusicStore\bin\EntityFramework.xml
+C:\MVC3\ThirdTry\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\MVC3\ThirdTry\MusicStore\obj\Debug\MusicStore.dll
+C:\MVC3\ThirdTry\MusicStore\obj\Debug\MusicStore.pdb
